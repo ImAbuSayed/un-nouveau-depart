@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-nouveau-depart/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Un Nouveau Départ](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-nouveau-depart/) |
+| **Get License** | [Secure Licensing Rights for Un Nouveau Départ](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-nouveau-depart/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> J'te vois briller sous les néons, my baby
+> Dans le club ce soir, t'es la seule qui m'anime
+> C'est un nouveau départ, on roule dans la city
+> Viens plus près de moi, notre vibe est sublime
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
