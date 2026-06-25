@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-nouveau-depart/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Un Nouveau Départ](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-nouveau-depart/) |
+| **Get License** | [License this song: Un Nouveau Départ](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-nouveau-depart/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4fa1cde6aed3a8254967a5ab1232a0ccca8e8ea0e33de6a411d44ea0626b9a04` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
